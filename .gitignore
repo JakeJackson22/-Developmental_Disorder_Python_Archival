@@ -2,3 +2,4 @@
 scanpytutorial2.yml
 figures/
 data/
+*.h5ad
